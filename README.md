@@ -2,7 +2,7 @@
 
 MarketLens compares housing affordability in Madison and Minneapolis using Census ACS data and national CPI and mortgage-rate series from FRED. It includes a Python analysis pipeline, Streamlit app, Excel workbook, R cross-checks, and research report.
 
-**Start here:** [Research report](report/report.md) · [HTML report](report/report.html) · [Excel workbook](excel/MarketLens_Analysis.xlsx) · [Methodology](docs/METHODOLOGY.md) · [GitHub setup](GITHUB_SETUP.md)
+**Start here:** [Research report](report/report.md) · [HTML report](report/report.html) · [Excel workbook](excel/MarketLens_Analysis.xlsx) · [Methodology](docs/METHODOLOGY.md)
 
 The study covers citywide housing conditions. Student wages, bedroom counts, and roommate budgets are outside its current scope.
 
