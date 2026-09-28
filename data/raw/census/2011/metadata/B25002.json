@@ -1,0 +1,101 @@
+{
+  "variables": {
+    "NAME": {
+      "label": "Geographic Area Name",
+      "group": "B25002",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25002_002EA": {
+      "label": "Annotation of Estimate!!Total!!Occupied",
+      "predicateType": "string",
+      "group": "B25002",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25002_002MA": {
+      "label": "Annotation of Margin of Error!!Total!!Occupied",
+      "predicateType": "string",
+      "group": "B25002",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25002_001EA": {
+      "label": "Annotation of Estimate!!Total",
+      "predicateType": "string",
+      "group": "B25002",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25002_001MA": {
+      "label": "Annotation of Margin of Error!!Total",
+      "predicateType": "string",
+      "group": "B25002",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25002_001E": {
+      "label": "Estimate!!Total",
+      "predicateType": "int",
+      "group": "B25002",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25002_001M": {
+      "label": "Margin of Error!!Total",
+      "predicateType": "int",
+      "group": "B25002",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25002_002E": {
+      "label": "Estimate!!Total!!Occupied",
+      "predicateType": "int",
+      "group": "B25002",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25002_002M": {
+      "label": "Margin of Error!!Total!!Occupied",
+      "predicateType": "int",
+      "group": "B25002",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25002_003E": {
+      "label": "Estimate!!Total!!Vacant",
+      "predicateType": "int",
+      "group": "B25002",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25002_003M": {
+      "label": "Margin of Error!!Total!!Vacant",
+      "predicateType": "int",
+      "group": "B25002",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25002_003EA": {
+      "label": "Annotation of Estimate!!Total!!Vacant",
+      "predicateType": "string",
+      "group": "B25002",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25002_003MA": {
+      "label": "Annotation of Margin of Error!!Total!!Vacant",
+      "predicateType": "string",
+      "group": "B25002",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "GEO_ID": {
+      "label": "Geography",
+      "predicateType": "string",
+      "group": "B25002",
+      "limit": 0,
+      "predicateOnly": true
+    }
+  }
+}

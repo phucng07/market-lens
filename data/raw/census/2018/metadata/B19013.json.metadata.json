@@ -1,0 +1,7 @@
+{
+  "url": "https://api.census.gov/data/2018/acs/acs1/groups/B19013.json",
+  "resolved_url": "https://api.census.gov/data/2018/acs/acs1/groups/B19013.json",
+  "retrieved_utc": "2026-09-26T22:22:26.717827+00:00",
+  "sha256": "d6a009c7dc76f3b32a28cdc2451cf4e223289078bce0a9823fddda00974a757c",
+  "bytes": 227570
+}

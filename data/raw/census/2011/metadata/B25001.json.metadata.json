@@ -1,0 +1,7 @@
+{
+  "url": "https://api.census.gov/data/2011/acs/acs1/groups/B25001.json",
+  "resolved_url": "https://api.census.gov/data/2011/acs/acs1/groups/B25001.json",
+  "retrieved_utc": "2026-09-26T22:21:43.581540+00:00",
+  "sha256": "462e07ef65e60bdc12ce5233ae0e85a488185b904bcc12fac33d08af66da7c71",
+  "bytes": 1011
+}

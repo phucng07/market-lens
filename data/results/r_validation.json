@@ -1,0 +1,6 @@
+{
+  "status": "passed",
+  "message": "null device \n          1 \nPASS: proxy error 3.55e-15; inflation error 1.46e-11; OLS coefficient error 9.44e-15; HC3 SE error 9.99e-16",
+  "stderr": "",
+  "returncode": 0
+}

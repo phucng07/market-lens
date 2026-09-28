@@ -1,0 +1,45 @@
+{
+  "variables": {
+    "B19013_001MA": {
+      "label": "Annotation of Margin of Error!!Median household income in the past 12 months (in 2010 inflation-adjusted dollars)",
+      "predicateType": "string",
+      "group": "B19013",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B19013_001EA": {
+      "label": "Annotation of Estimate!!Median household income in the past 12 months (in 2010 inflation-adjusted dollars)",
+      "predicateType": "string",
+      "group": "B19013",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "NAME": {
+      "label": "Geographic Area Name",
+      "group": "B19013",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "GEO_ID": {
+      "label": "Geography",
+      "predicateType": "string",
+      "group": "B19013",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B19013_001E": {
+      "label": "Estimate!!Median household income in the past 12 months (in 2010 inflation-adjusted dollars)",
+      "predicateType": "int",
+      "group": "B19013",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B19013_001M": {
+      "label": "Margin of Error!!Median household income in the past 12 months (in 2010 inflation-adjusted dollars)",
+      "predicateType": "int",
+      "group": "B19013",
+      "limit": 0,
+      "predicateOnly": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "formula": "annual_rent_to_income_pct ~ vacancy_rate + Minneapolis indicator + (year - 2010)",
+  "n": 28,
+  "parameters": 4,
+  "r_squared": 0.3519632652312309,
+  "adjusted_r_squared": 0.2709586733851348,
+  "covariance": "HC3",
+  "interval_method": "Student t with residual degrees of freedom",
+  "excluded_missing": 0,
+  "design_rank": 4,
+  "condition_number": 50.34874177880378,
+  "max_vif": 2.591354925333094,
+  "limitation": "Exploratory association, not a causal effect. ACS sampling error is not propagated. HC3 handles heteroskedasticity but not serial or shared-year dependence. Two cities are insufficient for reliable city-clustered inference. Common trends, omitted variables and endogenous vacancy limit interpretation."
+}

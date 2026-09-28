@@ -1,0 +1,227 @@
+{
+  "audit_utc": "2026-09-26T22:54:51.878879+00:00",
+  "criteria_passed": 27,
+  "criteria_unmet": [],
+  "tests": {
+    "tests": 20,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "r_validation": "passed",
+  "streamlit": {
+    "status": "passed",
+    "health_response": "ok",
+    "stopped": true
+  },
+  "raw_files_verified": 322,
+  "marker_matches_reviewed": [
+    {
+      "file": "src/documentation.py",
+      "line": 171,
+      "text": "Summary tables report count, mean, median, sample standard deviation, minimum, maximum, first/latest observed years and values, endpoint percent change and level difference. Rate differences should be read in percentage points, while endpoint percent changes are proportional changes. No endpoint change is annualized."
+    },
+    {
+      "file": "src/regression.py",
+      "line": 26,
+      "text": "sample = eligible.dropna(subset=['annual_rent_to_income_pct', 'vacancy_rate']).copy()"
+    },
+    {
+      "file": "src/regression.py",
+      "line": 27,
+      "text": "x = design(sample)"
+    },
+    {
+      "file": "src/regression.py",
+      "line": 28,
+      "text": "if len(sample) <= 3 * x.shape[1] or np.linalg.matrix_rank(x) != x.shape[1]:"
+    },
+    {
+      "file": "src/regression.py",
+      "line": 30,
+      "text": "y = sample.annual_rent_to_income_pct"
+    },
+    {
+      "file": "src/regression.py",
+      "line": 40,
+      "text": "diagnostics = sample[['city', 'year']].copy()"
+    },
+    {
+      "file": "src/regression.py",
+      "line": 48,
+      "text": "alt_x = design(sample, interaction=True)"
+    },
+    {
+      "file": "src/regression.py",
+      "line": 52,
+      "text": "for year in sorted(sample.year.unique()):"
+    },
+    {
+      "file": "src/regression.py",
+      "line": 53,
+      "text": "subset = sample[sample.year != year]"
+    },
+    {
+      "file": "src/regression.py",
+      "line": 61,
+      "text": "excluded_missing=int(len(eligible) - len(sample)), design_rank=int(np.linalg.matrix_rank(x)),"
+    },
+    {
+      "file": "docs/ACCEPTANCE.md",
+      "line": 31,
+      "text": "| PASS | repository contains no fake research data | Official files used throughout; synthetic inputs confined to unit tests |"
+    },
+    {
+      "file": "docs/ACCEPTANCE.md",
+      "line": 32,
+      "text": "| PASS | repository contains no unfinished result placeholders | Authored-code/document marker scan reviewed; statistical uses of sample are intentional |"
+    },
+    {
+      "file": "docs/ACCEPTANCE.md",
+      "line": 37,
+      "text": "Original AGENTS.md and SPEC.md were preserved. The keyword scan found legitimate statistical uses of `sample`, references in the original instructions, and text in unmodified official source files. None represents invented research observations or an unfinished research result. Machine-readable evidence: `data/results/final_audit.json`."
+    },
+    {
+      "file": "docs/METHODOLOGY.md",
+      "line": 28,
+      "text": "Summary tables report count, mean, median, sample standard deviation, minimum, maximum, first/latest observed years and values, endpoint percent change and level difference. Rate differences should be read in percentage points, while endpoint percent changes are proportional changes. No endpoint change is annualized."
+    }
+  ],
+  "criteria": [
+    {
+      "criterion": "real authoritative data have been acquired",
+      "status": "passed",
+      "evidence": "322 immutable official responses with verified SHA-256 sidecars"
+    },
+    {
+      "criterion": "every source is documented",
+      "status": "passed",
+      "evidence": "docs/DATA_SOURCES.md; data/processed/source_manifest.csv"
+    },
+    {
+      "criterion": "raw data are preserved separately",
+      "status": "passed",
+      "evidence": "data/raw/ is separate from processed and results directories"
+    },
+    {
+      "criterion": "city-year dataset is generated",
+      "status": "passed",
+      "evidence": "30 grid rows; 28 observed city-years"
+    },
+    {
+      "criterion": "nominal and real monetary variables are available where appropriate",
+      "status": "passed",
+      "evidence": "Income, rent and home values; 2024 constant dollars"
+    },
+    {
+      "criterion": "affordability metrics are generated",
+      "status": "passed",
+      "evidence": "Proxy, home-value ratio, supply, vacancy, unemployment and direct burden"
+    },
+    {
+      "criterion": "descriptive statistics are generated",
+      "status": "passed",
+      "evidence": "data/results/summary_statistics.csv; latest_city_comparison.csv"
+    },
+    {
+      "criterion": "at least 6 substantive figures are generated",
+      "status": "passed",
+      "evidence": "12 Python economic figures plus independent R figure"
+    },
+    {
+      "criterion": "at least one defensible exploratory statistical model has been evaluated",
+      "status": "passed",
+      "evidence": "28-observation OLS, four parameters; HC3; VIF, influence and trend/year sensitivity"
+    },
+    {
+      "criterion": "model limitations are explained",
+      "status": "passed",
+      "evidence": "Report, methodology, app and workbook distinguish association from causation"
+    },
+    {
+      "criterion": "Excel workbook is generated",
+      "status": "passed",
+      "evidence": "excel/MarketLens_Analysis.xlsx"
+    },
+    {
+      "criterion": "Excel workbook contains all required sheets",
+      "status": "passed",
+      "evidence": "All nine required sheets verified"
+    },
+    {
+      "criterion": "Excel workbook successfully reopens",
+      "status": "passed",
+      "evidence": "openpyxl formula/cached-value reads and independent spreadsheet-engine import"
+    },
+    {
+      "criterion": "R validation script exists",
+      "status": "passed",
+      "evidence": "R/validation_analysis.R"
+    },
+    {
+      "criterion": "R validation was run if R is available",
+      "status": "passed",
+      "evidence": "passed; metric, inflation, OLS and HC3 checks recorded in r_validation.json"
+    },
+    {
+      "criterion": "Streamlit app exists",
+      "status": "passed",
+      "evidence": "app.py, six research tabs and filters"
+    },
+    {
+      "criterion": "Streamlit app passes smoke testing",
+      "status": "passed",
+      "evidence": "AppTest controls pass; live localhost HTTP health check passes; server stopped"
+    },
+    {
+      "criterion": "README is complete",
+      "status": "passed",
+      "evidence": "Research question, findings, data, methods, outputs, setup and limitations reviewed"
+    },
+    {
+      "criterion": "DATA_SOURCES.md is complete",
+      "status": "passed",
+      "evidence": "Official tables/series, years, retrieval timestamps, endpoints and limitations"
+    },
+    {
+      "criterion": "DATA_DICTIONARY.md is complete",
+      "status": "passed",
+      "evidence": "All 64 processed columns documented"
+    },
+    {
+      "criterion": "METHODOLOGY.md is complete",
+      "status": "passed",
+      "evidence": "Cleaning, annualization, formulas, uncertainty, models and reproducibility"
+    },
+    {
+      "criterion": "report exists",
+      "status": "passed",
+      "evidence": "report/report.md and report/report.html; approximately 3,000 words with six figures"
+    },
+    {
+      "criterion": "pytest tests pass",
+      "status": "passed",
+      "evidence": "20 passed, zero failures/errors/skips; data/results/pytest.xml"
+    },
+    {
+      "criterion": "generated numerical claims are consistent with analysis outputs",
+      "status": "passed",
+      "evidence": "Headlines regenerated from findings; endpoints tested; regression independently reproduced in R"
+    },
+    {
+      "criterion": "repository contains no fake research data",
+      "status": "passed",
+      "evidence": "Official files used throughout; synthetic inputs confined to unit tests"
+    },
+    {
+      "criterion": "repository contains no unfinished result placeholders",
+      "status": "passed",
+      "evidence": "Authored-code/document marker scan reviewed; statistical uses of sample are intentional"
+    },
+    {
+      "criterion": "exact reproduction instructions are documented",
+      "status": "passed",
+      "evidence": "README commands, requirements-lock.txt, offline pipeline and separate launch command"
+    }
+  ]
+}

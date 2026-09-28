@@ -1,0 +1,12 @@
+{
+  "status": "completed",
+  "completed_utc": "2026-09-28T22:27:11.477530+00:00",
+  "first_year": 2010,
+  "latest_year": 2024,
+  "rows": 30,
+  "observed_city_years": 28,
+  "r_validation": "passed",
+  "model_observations": 28,
+  "workbook": "excel/MarketLens_Analysis.xlsx",
+  "offline": true
+}

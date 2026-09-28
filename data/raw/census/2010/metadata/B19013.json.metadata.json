@@ -1,0 +1,7 @@
+{
+  "url": "https://api.census.gov/data/2010/acs/acs1/groups/B19013.json",
+  "resolved_url": "https://api.census.gov/data/2010/acs/acs1/groups/B19013.json",
+  "retrieved_utc": "2026-09-26T22:21:43.474655+00:00",
+  "sha256": "f3055722d45f57e0af09cd4f8bbe43e57cbd0857624c6ebeaf1452bb2438683f",
+  "bytes": 1319
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://api.census.gov/data/2012/acs/acs1/groups/B25077.json",
+  "resolved_url": "https://api.census.gov/data/2012/acs/acs1/groups/B25077.json",
+  "retrieved_utc": "2026-09-26T22:21:43.956909+00:00",
+  "sha256": "2f5296d651feb1123cb1b598b08e03b92899e159b9e4c5af09832b8f165f6caa",
+  "bytes": 244346
+}

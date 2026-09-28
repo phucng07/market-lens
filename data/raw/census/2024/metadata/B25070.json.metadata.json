@@ -1,0 +1,7 @@
+{
+  "url": "https://api.census.gov/data/2024/acs/acs1/groups/B25070.json",
+  "resolved_url": "https://api.census.gov/data/2024/acs/acs1/groups/B25070.json",
+  "retrieved_utc": "2026-09-26T22:22:47.352544+00:00",
+  "sha256": "ae973f9889e12c0571e7c6cc4fcd1fc96afc3c3b69daf0fde17b37aada5faf9c",
+  "bytes": 250238
+}

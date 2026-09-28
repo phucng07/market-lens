@@ -1,0 +1,325 @@
+{
+  "variables": {
+    "B25070_010MA": {
+      "label": "Annotation of Margin of Error!!Total!!50.0 percent or more",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_010EA": {
+      "label": "Annotation of Estimate!!Total!!50.0 percent or more",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_011EA": {
+      "label": "Annotation of Estimate!!Total!!Not computed",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_011MA": {
+      "label": "Annotation of Margin of Error!!Total!!Not computed",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_008MA": {
+      "label": "Annotation of Margin of Error!!Total!!35.0 to 39.9 percent",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_009EA": {
+      "label": "Annotation of Estimate!!Total!!40.0 to 49.9 percent",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_009MA": {
+      "label": "Annotation of Margin of Error!!Total!!40.0 to 49.9 percent",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "NAME": {
+      "label": "Geographic Area Name",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "GEO_ID": {
+      "label": "Geography",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_003E": {
+      "label": "Estimate!!Total!!10.0 to 14.9 percent",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_003M": {
+      "label": "Margin of Error!!Total!!10.0 to 14.9 percent",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_002E": {
+      "label": "Estimate!!Total!!Less than 10.0 percent",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_002M": {
+      "label": "Margin of Error!!Total!!Less than 10.0 percent",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_001E": {
+      "label": "Estimate!!Total",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_001M": {
+      "label": "Margin of Error!!Total",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_007E": {
+      "label": "Estimate!!Total!!30.0 to 34.9 percent",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_007M": {
+      "label": "Margin of Error!!Total!!30.0 to 34.9 percent",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_006E": {
+      "label": "Estimate!!Total!!25.0 to 29.9 percent",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_006M": {
+      "label": "Margin of Error!!Total!!25.0 to 29.9 percent",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_005E": {
+      "label": "Estimate!!Total!!20.0 to 24.9 percent",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_005M": {
+      "label": "Margin of Error!!Total!!20.0 to 24.9 percent",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_004E": {
+      "label": "Estimate!!Total!!15.0 to 19.9 percent",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_004M": {
+      "label": "Margin of Error!!Total!!15.0 to 19.9 percent",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_009E": {
+      "label": "Estimate!!Total!!40.0 to 49.9 percent",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_009M": {
+      "label": "Margin of Error!!Total!!40.0 to 49.9 percent",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_008E": {
+      "label": "Estimate!!Total!!35.0 to 39.9 percent",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_008M": {
+      "label": "Margin of Error!!Total!!35.0 to 39.9 percent",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_011E": {
+      "label": "Estimate!!Total!!Not computed",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_011M": {
+      "label": "Margin of Error!!Total!!Not computed",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_010E": {
+      "label": "Estimate!!Total!!50.0 percent or more",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_010M": {
+      "label": "Margin of Error!!Total!!50.0 percent or more",
+      "predicateType": "int",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_004MA": {
+      "label": "Annotation of Margin of Error!!Total!!15.0 to 19.9 percent",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_004EA": {
+      "label": "Annotation of Estimate!!Total!!15.0 to 19.9 percent",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_005MA": {
+      "label": "Annotation of Margin of Error!!Total!!20.0 to 24.9 percent",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_005EA": {
+      "label": "Annotation of Estimate!!Total!!20.0 to 24.9 percent",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_006MA": {
+      "label": "Annotation of Margin of Error!!Total!!25.0 to 29.9 percent",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_006EA": {
+      "label": "Annotation of Estimate!!Total!!25.0 to 29.9 percent",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_007EA": {
+      "label": "Annotation of Estimate!!Total!!30.0 to 34.9 percent",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_007MA": {
+      "label": "Annotation of Margin of Error!!Total!!30.0 to 34.9 percent",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_008EA": {
+      "label": "Annotation of Estimate!!Total!!35.0 to 39.9 percent",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_001EA": {
+      "label": "Annotation of Estimate!!Total",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_001MA": {
+      "label": "Annotation of Margin of Error!!Total",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_002EA": {
+      "label": "Annotation of Estimate!!Total!!Less than 10.0 percent",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_002MA": {
+      "label": "Annotation of Margin of Error!!Total!!Less than 10.0 percent",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_003MA": {
+      "label": "Annotation of Margin of Error!!Total!!10.0 to 14.9 percent",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25070_003EA": {
+      "label": "Annotation of Estimate!!Total!!10.0 to 14.9 percent",
+      "predicateType": "string",
+      "group": "B25070",
+      "limit": 0,
+      "predicateOnly": true
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL&cosd=2010-01-01&coed=2024-12-31",
+  "resolved_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CPIAUCSL&cosd=2010-01-01&coed=2024-12-31",
+  "retrieved_utc": "2026-09-26T22:30:33.092064+00:00",
+  "sha256": "77cb4a1b294e414c4afcc8ce5df7a5f1491aa9289c8ad550f992a20fc944a1b5",
+  "bytes": 3446
+}

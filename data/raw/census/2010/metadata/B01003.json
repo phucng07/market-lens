@@ -1,0 +1,45 @@
+{
+  "variables": {
+    "B01003_001E": {
+      "label": "Estimate!!Total",
+      "predicateType": "int",
+      "group": "B01003",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B01003_001M": {
+      "label": "Margin of Error!!Total",
+      "predicateType": "int",
+      "group": "B01003",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "NAME": {
+      "label": "Geographic Area Name",
+      "group": "B01003",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "GEO_ID": {
+      "label": "Geography",
+      "predicateType": "string",
+      "group": "B01003",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B01003_001MA": {
+      "label": "Annotation of Margin of Error!!Total",
+      "predicateType": "string",
+      "group": "B01003",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B01003_001EA": {
+      "label": "Annotation of Estimate!!Total",
+      "predicateType": "string",
+      "group": "B01003",
+      "limit": 0,
+      "predicateOnly": true
+    }
+  }
+}

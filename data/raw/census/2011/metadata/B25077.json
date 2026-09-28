@@ -1,0 +1,45 @@
+{
+  "variables": {
+    "B25077_001M": {
+      "label": "Margin of Error!!Median value (dollars)",
+      "predicateType": "int",
+      "group": "B25077",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25077_001E": {
+      "label": "Estimate!!Median value (dollars)",
+      "predicateType": "int",
+      "group": "B25077",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "NAME": {
+      "label": "Geographic Area Name",
+      "group": "B25077",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "GEO_ID": {
+      "label": "Geography",
+      "predicateType": "string",
+      "group": "B25077",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25077_001EA": {
+      "label": "Annotation of Estimate!!Median value (dollars)",
+      "predicateType": "string",
+      "group": "B25077",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25077_001MA": {
+      "label": "Annotation of Margin of Error!!Median value (dollars)",
+      "predicateType": "string",
+      "group": "B25077",
+      "limit": 0,
+      "predicateOnly": true
+    }
+  }
+}

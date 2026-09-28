@@ -1,0 +1,65 @@
+variable,unit,description
+city,text,Census incorporated city name; Madison or Minneapolis.
+year,calendar year,ACS reference year and calendar year of national annual averages.
+state,text,State name; Wisconsin or Minnesota.
+state_fips,identifier,"Two-character Census state FIPS, discovered from geography file."
+place_fips,identifier,"Five-character Census place FIPS, discovered from geography file."
+geoid,identifier,"Census summary level 160, component 00, whole incorporated place GEO_ID."
+acs_available,boolean,"False for 2020, when standard ACS 1-year estimates were not released."
+population,persons,ACS B01003_001E: Estimate!!Total.
+population_moe,persons,ACS B01003_001M: published 90% margin of error for population. Negative sentinels become missing.
+median_household_income_nominal,annual USD,ACS B19013_001E: Estimate!!Median household income in the past 12 months (in survey-year dollars).
+median_household_income_nominal_moe,annual USD,ACS B19013_001M: published 90% margin of error for median_household_income_nominal. Negative sentinels become missing.
+median_gross_rent_nominal,monthly USD,ACS B25064_001E: Estimate!!Median gross rent.
+median_gross_rent_nominal_moe,monthly USD,ACS B25064_001M: published 90% margin of error for median_gross_rent_nominal. Negative sentinels become missing.
+median_home_value_nominal,USD asset value,ACS B25077_001E: Estimate!!Median value (dollars).
+median_home_value_nominal_moe,USD asset value,ACS B25077_001M: published 90% margin of error for median_home_value_nominal. Negative sentinels become missing.
+housing_units,housing units,ACS B25001_001E: Estimate!!Total.
+housing_units_moe,housing units,ACS B25001_001M: published 90% margin of error for housing_units. Negative sentinels become missing.
+total_housing_units,housing units,ACS B25002_001E: Estimate!!Total:.
+total_housing_units_moe,housing units,ACS B25002_001M: published 90% margin of error for total_housing_units. Negative sentinels become missing.
+occupied_housing_units,housing units,ACS B25002_002E: Estimate!!Total:!!Occupied.
+occupied_housing_units_moe,housing units,ACS B25002_002M: published 90% margin of error for occupied_housing_units. Negative sentinels become missing.
+vacant_housing_units,housing units,ACS B25002_003E: Estimate!!Total:!!Vacant.
+vacant_housing_units_moe,housing units,ACS B25002_003M: published 90% margin of error for vacant_housing_units. Negative sentinels become missing.
+civilian_labor_force,persons,ACS B23025_003E: Estimate!!Total:!!In labor force:!!Civilian labor force:.
+civilian_labor_force_moe,persons,ACS B23025_003M: published 90% margin of error for civilian_labor_force. Negative sentinels become missing.
+employed,persons,ACS B23025_004E: Estimate!!Total:!!In labor force:!!Civilian labor force:!!Employed.
+employed_moe,persons,ACS B23025_004M: published 90% margin of error for employed. Negative sentinels become missing.
+unemployed,persons,ACS B23025_005E: Estimate!!Total:!!In labor force:!!Civilian labor force:!!Unemployed.
+unemployed_moe,persons,ACS B23025_005M: published 90% margin of error for unemployed. Negative sentinels become missing.
+renter_units_total,housing units,ACS B25070_001E: Estimate!!Total:.
+renter_units_total_moe,housing units,ACS B25070_001M: published 90% margin of error for renter_units_total. Negative sentinels become missing.
+renter_units_30_34,housing units,ACS B25070_007E: Estimate!!Total:!!30.0 to 34.9 percent.
+renter_units_30_34_moe,housing units,ACS B25070_007M: published 90% margin of error for renter_units_30_34. Negative sentinels become missing.
+renter_units_35_39,housing units,ACS B25070_008E: Estimate!!Total:!!35.0 to 39.9 percent.
+renter_units_35_39_moe,housing units,ACS B25070_008M: published 90% margin of error for renter_units_35_39. Negative sentinels become missing.
+renter_units_40_49,housing units,ACS B25070_009E: Estimate!!Total:!!40.0 to 49.9 percent.
+renter_units_40_49_moe,housing units,ACS B25070_009M: published 90% margin of error for renter_units_40_49. Negative sentinels become missing.
+renter_units_50_plus,housing units,ACS B25070_010E: Estimate!!Total:!!50.0 percent or more.
+renter_units_50_plus_moe,housing units,ACS B25070_010M: published 90% margin of error for renter_units_50_plus. Negative sentinels become missing.
+renter_units_not_computed,housing units,ACS B25070_011E: Estimate!!Total:!!Not computed.
+renter_units_not_computed_moe,housing units,ACS B25070_011M: published 90% margin of error for renter_units_not_computed. Negative sentinels become missing.
+data_note,text,"Specific availability limitation, otherwise blank."
+cpi,"index, 1982–84=100","Arithmetic mean of 12 monthly CPIAUCSL observations; US city average, seasonally adjusted."
+cpi_observations,months,Number of nonmissing monthly CPI observations in the annual average.
+mortgage_rate,percent,Mean of weekly MORTGAGE30US observations dated in the calendar year; national 30-year fixed rate.
+mortgage_rate_observations,weeks,Number of weekly mortgage observations in the annual mean; holidays can shift dates.
+real_dollar_base_year,year,Latest complete analysis year used as constant-dollar reference.
+median_household_income_real,2024 USD,"median_household_income_nominal × CPI_reference / CPI_year. Monthly for rent, annual for income, asset value for home."
+median_gross_rent_real,2024 USD,"median_gross_rent_nominal × CPI_reference / CPI_year. Monthly for rent, annual for income, asset value for home."
+median_home_value_real,2024 USD,"median_home_value_nominal × CPI_reference / CPI_year. Monthly for rent, annual for income, asset value for home."
+annual_rent_to_income_pct,percent,Annualized rent-to-income proxy = median monthly gross rent × 12 / median annual household income × 100. Not household rent burden.
+home_value_to_income,times annual income,Median owner-occupied home value / median annual household income; not a mortgage-payment measure.
+housing_units_per_1000,"units per 1,000 residents","All housing units / population × 1,000. Includes occupied and vacant units."
+vacancy_rate,percent,All vacant housing units / all housing units × 100; not the rental vacancy rate.
+unemployment_rate,percent,ACS unemployed / civilian labor force × 100; residents age 16+; B23025 unavailable in 2010.
+rent_burden_computable_units,renter-occupied units,B25070_001E minus B25070_011E. Excludes ratios not computed.
+rent_burden_30_plus_units,renter-occupied units,Sum of B25070_007E through B25070_010E; gross rent at least 30% of household income.
+direct_rent_burden_pct,percent,rent_burden_30_plus_units / rent_burden_computable_units × 100. Conditional on a computable ratio.
+rent_burden_excluded_pct,percent,B25070_011E / B25070_001E × 100. Share excluded from direct-burden denominator.
+population_yoy_pct,percent,100 × (population / its prior calendar-year value − 1). Missing unless both adjacent years observed.
+housing_units_yoy_pct,percent,100 × (housing_units / its prior calendar-year value − 1). Missing unless both adjacent years observed.
+median_household_income_real_yoy_pct,percent,100 × (median_household_income_real / its prior calendar-year value − 1). Missing unless both adjacent years observed.
+median_gross_rent_real_yoy_pct,percent,100 × (median_gross_rent_real / its prior calendar-year value − 1). Missing unless both adjacent years observed.
+median_home_value_real_yoy_pct,percent,100 × (median_home_value_real / its prior calendar-year value − 1). Missing unless both adjacent years observed.

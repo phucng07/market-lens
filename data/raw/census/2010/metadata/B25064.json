@@ -1,0 +1,45 @@
+{
+  "variables": {
+    "NAME": {
+      "label": "Geographic Area Name",
+      "group": "B25064",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "GEO_ID": {
+      "label": "Geography",
+      "predicateType": "string",
+      "group": "B25064",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25064_001EA": {
+      "label": "Annotation of Estimate!!Median gross rent",
+      "predicateType": "string",
+      "group": "B25064",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25064_001MA": {
+      "label": "Annotation of Margin of Error!!Median gross rent",
+      "predicateType": "string",
+      "group": "B25064",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25064_001E": {
+      "label": "Estimate!!Median gross rent",
+      "predicateType": "int",
+      "group": "B25064",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B25064_001M": {
+      "label": "Margin of Error!!Median gross rent",
+      "predicateType": "int",
+      "group": "B25064",
+      "limit": 0,
+      "predicateOnly": true
+    }
+  }
+}

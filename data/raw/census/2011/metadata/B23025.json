@@ -1,0 +1,213 @@
+{
+  "variables": {
+    "NAME": {
+      "label": "Geographic Area Name",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "GEO_ID": {
+      "label": "Geography",
+      "predicateType": "string",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_007MA": {
+      "label": "Annotation of Margin of Error!!Total!!Not in labor force",
+      "predicateType": "string",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_007EA": {
+      "label": "Annotation of Estimate!!Total!!Not in labor force",
+      "predicateType": "string",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_001EA": {
+      "label": "Annotation of Estimate!!Total",
+      "predicateType": "string",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_002EA": {
+      "label": "Annotation of Estimate!!Total!!In labor force",
+      "predicateType": "string",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_002MA": {
+      "label": "Annotation of Margin of Error!!Total!!In labor force",
+      "predicateType": "string",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_001MA": {
+      "label": "Annotation of Margin of Error!!Total",
+      "predicateType": "string",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_005EA": {
+      "label": "Annotation of Estimate!!Total!!In labor force!!Civilian labor force!!Unemployed",
+      "predicateType": "string",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_005MA": {
+      "label": "Annotation of Margin of Error!!Total!!In labor force!!Civilian labor force!!Unemployed",
+      "predicateType": "string",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_006MA": {
+      "label": "Annotation of Margin of Error!!Total!!In labor force!!Armed Forces",
+      "predicateType": "string",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_006EA": {
+      "label": "Annotation of Estimate!!Total!!In labor force!!Armed Forces",
+      "predicateType": "string",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_003EA": {
+      "label": "Annotation of Estimate!!Total!!In labor force!!Civilian labor force",
+      "predicateType": "string",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_003MA": {
+      "label": "Annotation of Margin of Error!!Total!!In labor force!!Civilian labor force",
+      "predicateType": "string",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_004EA": {
+      "label": "Annotation of Estimate!!Total!!In labor force!!Civilian labor force!!Employed",
+      "predicateType": "string",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_004MA": {
+      "label": "Annotation of Margin of Error!!Total!!In labor force!!Civilian labor force!!Employed",
+      "predicateType": "string",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_004E": {
+      "label": "Estimate!!Total!!In labor force!!Civilian labor force!!Employed",
+      "predicateType": "int",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_004M": {
+      "label": "Margin of Error!!Total!!In labor force!!Civilian labor force!!Employed",
+      "predicateType": "int",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_005E": {
+      "label": "Estimate!!Total!!In labor force!!Civilian labor force!!Unemployed",
+      "predicateType": "int",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_003E": {
+      "label": "Estimate!!Total!!In labor force!!Civilian labor force",
+      "predicateType": "int",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_003M": {
+      "label": "Margin of Error!!Total!!In labor force!!Civilian labor force",
+      "predicateType": "int",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_002E": {
+      "label": "Estimate!!Total!!In labor force",
+      "predicateType": "int",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_002M": {
+      "label": "Margin of Error!!Total!!In labor force",
+      "predicateType": "int",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_001E": {
+      "label": "Estimate!!Total",
+      "predicateType": "int",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_001M": {
+      "label": "Margin of Error!!Total",
+      "predicateType": "int",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_007M": {
+      "label": "Margin of Error!!Total!!Not in labor force",
+      "predicateType": "int",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_006M": {
+      "label": "Margin of Error!!Total!!In labor force!!Armed Forces",
+      "predicateType": "int",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_007E": {
+      "label": "Estimate!!Total!!Not in labor force",
+      "predicateType": "int",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_005M": {
+      "label": "Margin of Error!!Total!!In labor force!!Civilian labor force!!Unemployed",
+      "predicateType": "int",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "B23025_006E": {
+      "label": "Estimate!!Total!!In labor force!!Armed Forces",
+      "predicateType": "int",
+      "group": "B23025",
+      "limit": 0,
+      "predicateOnly": true
+    }
+  }
+}

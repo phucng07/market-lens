@@ -1,0 +1,236 @@
+year,code,variable,label,concept,metadata_url
+2010,B01003_001E,population,Estimate!!Total,B01003,https://api.census.gov/data/2010/acs/acs1/groups/B01003.json
+2010,B19013_001E,median_household_income_nominal,Estimate!!Median household income in the past 12 months (in 2010 inflation-adjusted dollars),B19013,https://api.census.gov/data/2010/acs/acs1/groups/B19013.json
+2010,B25001_001E,housing_units,Estimate!!Total,B25001,https://api.census.gov/data/2010/acs/acs1/groups/B25001.json
+2010,B25002_001E,total_housing_units,Estimate!!Total,B25002,https://api.census.gov/data/2010/acs/acs1/groups/B25002.json
+2010,B25002_002E,occupied_housing_units,Estimate!!Total!!Occupied,B25002,https://api.census.gov/data/2010/acs/acs1/groups/B25002.json
+2010,B25002_003E,vacant_housing_units,Estimate!!Total!!Vacant,B25002,https://api.census.gov/data/2010/acs/acs1/groups/B25002.json
+2010,B25064_001E,median_gross_rent_nominal,Estimate!!Median gross rent,B25064,https://api.census.gov/data/2010/acs/acs1/groups/B25064.json
+2010,B25070_001E,renter_units_total,Estimate!!Total,B25070,https://api.census.gov/data/2010/acs/acs1/groups/B25070.json
+2010,B25070_007E,renter_units_30_34,Estimate!!Total!!30.0 to 34.9 percent,B25070,https://api.census.gov/data/2010/acs/acs1/groups/B25070.json
+2010,B25070_008E,renter_units_35_39,Estimate!!Total!!35.0 to 39.9 percent,B25070,https://api.census.gov/data/2010/acs/acs1/groups/B25070.json
+2010,B25070_009E,renter_units_40_49,Estimate!!Total!!40.0 to 49.9 percent,B25070,https://api.census.gov/data/2010/acs/acs1/groups/B25070.json
+2010,B25070_010E,renter_units_50_plus,Estimate!!Total!!50.0 percent or more,B25070,https://api.census.gov/data/2010/acs/acs1/groups/B25070.json
+2010,B25070_011E,renter_units_not_computed,Estimate!!Total!!Not computed,B25070,https://api.census.gov/data/2010/acs/acs1/groups/B25070.json
+2010,B25077_001E,median_home_value_nominal,Estimate!!Median value (dollars),B25077,https://api.census.gov/data/2010/acs/acs1/groups/B25077.json
+2011,B01003_001E,population,Estimate!!Total,B01003,https://api.census.gov/data/2011/acs/acs1/groups/B01003.json
+2011,B19013_001E,median_household_income_nominal,Estimate!!Median household income in the past 12 months (in 2011 inflation-adjusted dollars),B19013,https://api.census.gov/data/2011/acs/acs1/groups/B19013.json
+2011,B23025_003E,civilian_labor_force,Estimate!!Total!!In labor force!!Civilian labor force,B23025,https://api.census.gov/data/2011/acs/acs1/groups/B23025.json
+2011,B23025_004E,employed,Estimate!!Total!!In labor force!!Civilian labor force!!Employed,B23025,https://api.census.gov/data/2011/acs/acs1/groups/B23025.json
+2011,B23025_005E,unemployed,Estimate!!Total!!In labor force!!Civilian labor force!!Unemployed,B23025,https://api.census.gov/data/2011/acs/acs1/groups/B23025.json
+2011,B25001_001E,housing_units,Estimate!!Total,B25001,https://api.census.gov/data/2011/acs/acs1/groups/B25001.json
+2011,B25002_001E,total_housing_units,Estimate!!Total,B25002,https://api.census.gov/data/2011/acs/acs1/groups/B25002.json
+2011,B25002_002E,occupied_housing_units,Estimate!!Total!!Occupied,B25002,https://api.census.gov/data/2011/acs/acs1/groups/B25002.json
+2011,B25002_003E,vacant_housing_units,Estimate!!Total!!Vacant,B25002,https://api.census.gov/data/2011/acs/acs1/groups/B25002.json
+2011,B25064_001E,median_gross_rent_nominal,Estimate!!Median gross rent,B25064,https://api.census.gov/data/2011/acs/acs1/groups/B25064.json
+2011,B25070_001E,renter_units_total,Estimate!!Total,B25070,https://api.census.gov/data/2011/acs/acs1/groups/B25070.json
+2011,B25070_007E,renter_units_30_34,Estimate!!Total!!30.0 to 34.9 percent,B25070,https://api.census.gov/data/2011/acs/acs1/groups/B25070.json
+2011,B25070_008E,renter_units_35_39,Estimate!!Total!!35.0 to 39.9 percent,B25070,https://api.census.gov/data/2011/acs/acs1/groups/B25070.json
+2011,B25070_009E,renter_units_40_49,Estimate!!Total!!40.0 to 49.9 percent,B25070,https://api.census.gov/data/2011/acs/acs1/groups/B25070.json
+2011,B25070_010E,renter_units_50_plus,Estimate!!Total!!50.0 percent or more,B25070,https://api.census.gov/data/2011/acs/acs1/groups/B25070.json
+2011,B25070_011E,renter_units_not_computed,Estimate!!Total!!Not computed,B25070,https://api.census.gov/data/2011/acs/acs1/groups/B25070.json
+2011,B25077_001E,median_home_value_nominal,Estimate!!Median value (dollars),B25077,https://api.census.gov/data/2011/acs/acs1/groups/B25077.json
+2012,B01003_001E,population,Estimate!!Total,TOTAL POPULATION,https://api.census.gov/data/2012/acs/acs1/groups/B01003.json
+2012,B19013_001E,median_household_income_nominal,Estimate!!Median household income in the past 12 months (in 2012 inflation-adjusted dollars),MEDIAN HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2012 INFLATION-ADJUSTED DOLLARS),https://api.census.gov/data/2012/acs/acs1/groups/B19013.json
+2012,B23025_003E,civilian_labor_force,Estimate!!Total!!In labor force!!Civilian labor force,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2012/acs/acs1/groups/B23025.json
+2012,B23025_004E,employed,Estimate!!Total!!In labor force!!Civilian labor force!!Employed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2012/acs/acs1/groups/B23025.json
+2012,B23025_005E,unemployed,Estimate!!Total!!In labor force!!Civilian labor force!!Unemployed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2012/acs/acs1/groups/B23025.json
+2012,B25001_001E,housing_units,Estimate!!Total,HOUSING UNITS,https://api.census.gov/data/2012/acs/acs1/groups/B25001.json
+2012,B25002_001E,total_housing_units,Estimate!!Total,OCCUPANCY STATUS,https://api.census.gov/data/2012/acs/acs1/groups/B25002.json
+2012,B25002_002E,occupied_housing_units,Estimate!!Total!!Occupied,OCCUPANCY STATUS,https://api.census.gov/data/2012/acs/acs1/groups/B25002.json
+2012,B25002_003E,vacant_housing_units,Estimate!!Total!!Vacant,OCCUPANCY STATUS,https://api.census.gov/data/2012/acs/acs1/groups/B25002.json
+2012,B25064_001E,median_gross_rent_nominal,Estimate!!Median gross rent,MEDIAN GROSS RENT (DOLLARS),https://api.census.gov/data/2012/acs/acs1/groups/B25064.json
+2012,B25070_001E,renter_units_total,Estimate!!Total,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2012/acs/acs1/groups/B25070.json
+2012,B25070_007E,renter_units_30_34,Estimate!!Total!!30.0 to 34.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2012/acs/acs1/groups/B25070.json
+2012,B25070_008E,renter_units_35_39,Estimate!!Total!!35.0 to 39.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2012/acs/acs1/groups/B25070.json
+2012,B25070_009E,renter_units_40_49,Estimate!!Total!!40.0 to 49.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2012/acs/acs1/groups/B25070.json
+2012,B25070_010E,renter_units_50_plus,Estimate!!Total!!50.0 percent or more,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2012/acs/acs1/groups/B25070.json
+2012,B25070_011E,renter_units_not_computed,Estimate!!Total!!Not computed,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2012/acs/acs1/groups/B25070.json
+2012,B25077_001E,median_home_value_nominal,Estimate!!Median value (dollars),MEDIAN VALUE (DOLLARS),https://api.census.gov/data/2012/acs/acs1/groups/B25077.json
+2013,B01003_001E,population,Estimate!!Total,TOTAL POPULATION,https://api.census.gov/data/2013/acs/acs1/groups/B01003.json
+2013,B19013_001E,median_household_income_nominal,Estimate!!Median household income in the past 12 months (in 2013 inflation-adjusted dollars),MEDIAN HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2013 INFLATION-ADJUSTED DOLLARS),https://api.census.gov/data/2013/acs/acs1/groups/B19013.json
+2013,B23025_003E,civilian_labor_force,Estimate!!Total!!In labor force!!Civilian labor force,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2013/acs/acs1/groups/B23025.json
+2013,B23025_004E,employed,Estimate!!Total!!In labor force!!Civilian labor force!!Employed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2013/acs/acs1/groups/B23025.json
+2013,B23025_005E,unemployed,Estimate!!Total!!In labor force!!Civilian labor force!!Unemployed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2013/acs/acs1/groups/B23025.json
+2013,B25001_001E,housing_units,Estimate!!Total,HOUSING UNITS,https://api.census.gov/data/2013/acs/acs1/groups/B25001.json
+2013,B25002_001E,total_housing_units,Estimate!!Total,OCCUPANCY STATUS,https://api.census.gov/data/2013/acs/acs1/groups/B25002.json
+2013,B25002_002E,occupied_housing_units,Estimate!!Total!!Occupied,OCCUPANCY STATUS,https://api.census.gov/data/2013/acs/acs1/groups/B25002.json
+2013,B25002_003E,vacant_housing_units,Estimate!!Total!!Vacant,OCCUPANCY STATUS,https://api.census.gov/data/2013/acs/acs1/groups/B25002.json
+2013,B25064_001E,median_gross_rent_nominal,Estimate!!Median gross rent,MEDIAN GROSS RENT (DOLLARS),https://api.census.gov/data/2013/acs/acs1/groups/B25064.json
+2013,B25070_001E,renter_units_total,Estimate!!Total,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2013/acs/acs1/groups/B25070.json
+2013,B25070_007E,renter_units_30_34,Estimate!!Total!!30.0 to 34.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2013/acs/acs1/groups/B25070.json
+2013,B25070_008E,renter_units_35_39,Estimate!!Total!!35.0 to 39.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2013/acs/acs1/groups/B25070.json
+2013,B25070_009E,renter_units_40_49,Estimate!!Total!!40.0 to 49.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2013/acs/acs1/groups/B25070.json
+2013,B25070_010E,renter_units_50_plus,Estimate!!Total!!50.0 percent or more,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2013/acs/acs1/groups/B25070.json
+2013,B25070_011E,renter_units_not_computed,Estimate!!Total!!Not computed,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2013/acs/acs1/groups/B25070.json
+2013,B25077_001E,median_home_value_nominal,Estimate!!Median value (dollars),MEDIAN VALUE (DOLLARS),https://api.census.gov/data/2013/acs/acs1/groups/B25077.json
+2014,B01003_001E,population,Estimate!!Total,TOTAL POPULATION,https://api.census.gov/data/2014/acs/acs1/groups/B01003.json
+2014,B19013_001E,median_household_income_nominal,Estimate!!Median household income in the past 12 months (in 2014 Inflation-adjusted dollars),MEDIAN HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS),https://api.census.gov/data/2014/acs/acs1/groups/B19013.json
+2014,B23025_003E,civilian_labor_force,Estimate!!Total!!In labor force!!Civilian labor force,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2014/acs/acs1/groups/B23025.json
+2014,B23025_004E,employed,Estimate!!Total!!In labor force!!Civilian labor force!!Employed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2014/acs/acs1/groups/B23025.json
+2014,B23025_005E,unemployed,Estimate!!Total!!In labor force!!Civilian labor force!!Unemployed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2014/acs/acs1/groups/B23025.json
+2014,B25001_001E,housing_units,Estimate!!Total,HOUSING UNITS,https://api.census.gov/data/2014/acs/acs1/groups/B25001.json
+2014,B25002_001E,total_housing_units,Estimate!!Total,OCCUPANCY STATUS,https://api.census.gov/data/2014/acs/acs1/groups/B25002.json
+2014,B25002_002E,occupied_housing_units,Estimate!!Total!!Occupied,OCCUPANCY STATUS,https://api.census.gov/data/2014/acs/acs1/groups/B25002.json
+2014,B25002_003E,vacant_housing_units,Estimate!!Total!!Vacant,OCCUPANCY STATUS,https://api.census.gov/data/2014/acs/acs1/groups/B25002.json
+2014,B25064_001E,median_gross_rent_nominal,Estimate!!Median gross rent,MEDIAN GROSS RENT (DOLLARS),https://api.census.gov/data/2014/acs/acs1/groups/B25064.json
+2014,B25070_001E,renter_units_total,Estimate!!Total,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2014/acs/acs1/groups/B25070.json
+2014,B25070_007E,renter_units_30_34,Estimate!!Total!!30.0 to 34.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2014/acs/acs1/groups/B25070.json
+2014,B25070_008E,renter_units_35_39,Estimate!!Total!!35.0 to 39.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2014/acs/acs1/groups/B25070.json
+2014,B25070_009E,renter_units_40_49,Estimate!!Total!!40.0 to 49.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2014/acs/acs1/groups/B25070.json
+2014,B25070_010E,renter_units_50_plus,Estimate!!Total!!50.0 percent or more,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2014/acs/acs1/groups/B25070.json
+2014,B25070_011E,renter_units_not_computed,Estimate!!Total!!Not computed,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2014/acs/acs1/groups/B25070.json
+2014,B25077_001E,median_home_value_nominal,Estimate!!Median value (dollars),MEDIAN VALUE (DOLLARS),https://api.census.gov/data/2014/acs/acs1/groups/B25077.json
+2015,B01003_001E,population,Estimate!!Total,TOTAL POPULATION,https://api.census.gov/data/2015/acs/acs1/groups/B01003.json
+2015,B19013_001E,median_household_income_nominal,Estimate!!Median household income in the past 12 months (in 2015 Inflation-adjusted dollars),MEDIAN HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS),https://api.census.gov/data/2015/acs/acs1/groups/B19013.json
+2015,B23025_003E,civilian_labor_force,Estimate!!Total!!In labor force!!Civilian labor force,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2015/acs/acs1/groups/B23025.json
+2015,B23025_004E,employed,Estimate!!Total!!In labor force!!Civilian labor force!!Employed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2015/acs/acs1/groups/B23025.json
+2015,B23025_005E,unemployed,Estimate!!Total!!In labor force!!Civilian labor force!!Unemployed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2015/acs/acs1/groups/B23025.json
+2015,B25001_001E,housing_units,Estimate!!Total,HOUSING UNITS,https://api.census.gov/data/2015/acs/acs1/groups/B25001.json
+2015,B25002_001E,total_housing_units,Estimate!!Total,OCCUPANCY STATUS,https://api.census.gov/data/2015/acs/acs1/groups/B25002.json
+2015,B25002_002E,occupied_housing_units,Estimate!!Total!!Occupied,OCCUPANCY STATUS,https://api.census.gov/data/2015/acs/acs1/groups/B25002.json
+2015,B25002_003E,vacant_housing_units,Estimate!!Total!!Vacant,OCCUPANCY STATUS,https://api.census.gov/data/2015/acs/acs1/groups/B25002.json
+2015,B25064_001E,median_gross_rent_nominal,Estimate!!Median gross rent,MEDIAN GROSS RENT (DOLLARS),https://api.census.gov/data/2015/acs/acs1/groups/B25064.json
+2015,B25070_001E,renter_units_total,Estimate!!Total,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2015/acs/acs1/groups/B25070.json
+2015,B25070_007E,renter_units_30_34,Estimate!!Total!!30.0 to 34.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2015/acs/acs1/groups/B25070.json
+2015,B25070_008E,renter_units_35_39,Estimate!!Total!!35.0 to 39.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2015/acs/acs1/groups/B25070.json
+2015,B25070_009E,renter_units_40_49,Estimate!!Total!!40.0 to 49.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2015/acs/acs1/groups/B25070.json
+2015,B25070_010E,renter_units_50_plus,Estimate!!Total!!50.0 percent or more,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2015/acs/acs1/groups/B25070.json
+2015,B25070_011E,renter_units_not_computed,Estimate!!Total!!Not computed,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2015/acs/acs1/groups/B25070.json
+2015,B25077_001E,median_home_value_nominal,Estimate!!Median value (dollars),MEDIAN VALUE (DOLLARS),https://api.census.gov/data/2015/acs/acs1/groups/B25077.json
+2016,B01003_001E,population,Estimate!!Total,TOTAL POPULATION,https://api.census.gov/data/2016/acs/acs1/groups/B01003.json
+2016,B19013_001E,median_household_income_nominal,Estimate!!Median household income in the past 12 months (in 2016 inflation-adjusted dollars),MEDIAN HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2016 INFLATION-ADJUSTED DOLLARS),https://api.census.gov/data/2016/acs/acs1/groups/B19013.json
+2016,B23025_003E,civilian_labor_force,Estimate!!Total!!In labor force!!Civilian labor force,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2016/acs/acs1/groups/B23025.json
+2016,B23025_004E,employed,Estimate!!Total!!In labor force!!Civilian labor force!!Employed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2016/acs/acs1/groups/B23025.json
+2016,B23025_005E,unemployed,Estimate!!Total!!In labor force!!Civilian labor force!!Unemployed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2016/acs/acs1/groups/B23025.json
+2016,B25001_001E,housing_units,Estimate!!Total,HOUSING UNITS,https://api.census.gov/data/2016/acs/acs1/groups/B25001.json
+2016,B25002_001E,total_housing_units,Estimate!!Total,OCCUPANCY STATUS,https://api.census.gov/data/2016/acs/acs1/groups/B25002.json
+2016,B25002_002E,occupied_housing_units,Estimate!!Total!!Occupied,OCCUPANCY STATUS,https://api.census.gov/data/2016/acs/acs1/groups/B25002.json
+2016,B25002_003E,vacant_housing_units,Estimate!!Total!!Vacant,OCCUPANCY STATUS,https://api.census.gov/data/2016/acs/acs1/groups/B25002.json
+2016,B25064_001E,median_gross_rent_nominal,Estimate!!Median gross rent,MEDIAN GROSS RENT (DOLLARS),https://api.census.gov/data/2016/acs/acs1/groups/B25064.json
+2016,B25070_001E,renter_units_total,Estimate!!Total,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2016/acs/acs1/groups/B25070.json
+2016,B25070_007E,renter_units_30_34,Estimate!!Total!!30.0 to 34.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2016/acs/acs1/groups/B25070.json
+2016,B25070_008E,renter_units_35_39,Estimate!!Total!!35.0 to 39.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2016/acs/acs1/groups/B25070.json
+2016,B25070_009E,renter_units_40_49,Estimate!!Total!!40.0 to 49.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2016/acs/acs1/groups/B25070.json
+2016,B25070_010E,renter_units_50_plus,Estimate!!Total!!50.0 percent or more,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2016/acs/acs1/groups/B25070.json
+2016,B25070_011E,renter_units_not_computed,Estimate!!Total!!Not computed,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2016/acs/acs1/groups/B25070.json
+2016,B25077_001E,median_home_value_nominal,Estimate!!Median value (dollars),MEDIAN VALUE (DOLLARS),https://api.census.gov/data/2016/acs/acs1/groups/B25077.json
+2017,B01003_001E,population,Estimate!!Total,TOTAL POPULATION,https://api.census.gov/data/2017/acs/acs1/groups/B01003.json
+2017,B19013_001E,median_household_income_nominal,Estimate!!Median household income in the past 12 months (in 2017 inflation-adjusted dollars),MEDIAN HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS),https://api.census.gov/data/2017/acs/acs1/groups/B19013.json
+2017,B23025_003E,civilian_labor_force,Estimate!!Total!!In labor force!!Civilian labor force,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2017/acs/acs1/groups/B23025.json
+2017,B23025_004E,employed,Estimate!!Total!!In labor force!!Civilian labor force!!Employed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2017/acs/acs1/groups/B23025.json
+2017,B23025_005E,unemployed,Estimate!!Total!!In labor force!!Civilian labor force!!Unemployed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2017/acs/acs1/groups/B23025.json
+2017,B25001_001E,housing_units,Estimate!!Total,HOUSING UNITS,https://api.census.gov/data/2017/acs/acs1/groups/B25001.json
+2017,B25002_001E,total_housing_units,Estimate!!Total,OCCUPANCY STATUS,https://api.census.gov/data/2017/acs/acs1/groups/B25002.json
+2017,B25002_002E,occupied_housing_units,Estimate!!Total!!Occupied,OCCUPANCY STATUS,https://api.census.gov/data/2017/acs/acs1/groups/B25002.json
+2017,B25002_003E,vacant_housing_units,Estimate!!Total!!Vacant,OCCUPANCY STATUS,https://api.census.gov/data/2017/acs/acs1/groups/B25002.json
+2017,B25064_001E,median_gross_rent_nominal,Estimate!!Median gross rent,MEDIAN GROSS RENT (DOLLARS),https://api.census.gov/data/2017/acs/acs1/groups/B25064.json
+2017,B25070_001E,renter_units_total,Estimate!!Total,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2017/acs/acs1/groups/B25070.json
+2017,B25070_007E,renter_units_30_34,Estimate!!Total!!30.0 to 34.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2017/acs/acs1/groups/B25070.json
+2017,B25070_008E,renter_units_35_39,Estimate!!Total!!35.0 to 39.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2017/acs/acs1/groups/B25070.json
+2017,B25070_009E,renter_units_40_49,Estimate!!Total!!40.0 to 49.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2017/acs/acs1/groups/B25070.json
+2017,B25070_010E,renter_units_50_plus,Estimate!!Total!!50.0 percent or more,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2017/acs/acs1/groups/B25070.json
+2017,B25070_011E,renter_units_not_computed,Estimate!!Total!!Not computed,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2017/acs/acs1/groups/B25070.json
+2017,B25077_001E,median_home_value_nominal,Estimate!!Median value (dollars),MEDIAN VALUE (DOLLARS),https://api.census.gov/data/2017/acs/acs1/groups/B25077.json
+2018,B01003_001E,population,Estimate!!Total,TOTAL POPULATION,https://api.census.gov/data/2018/acs/acs1/groups/B01003.json
+2018,B19013_001E,median_household_income_nominal,Estimate!!Median household income in the past 12 months (in 2018 inflation-adjusted dollars),MEDIAN HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS),https://api.census.gov/data/2018/acs/acs1/groups/B19013.json
+2018,B23025_003E,civilian_labor_force,Estimate!!Total!!In labor force!!Civilian labor force,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2018/acs/acs1/groups/B23025.json
+2018,B23025_004E,employed,Estimate!!Total!!In labor force!!Civilian labor force!!Employed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2018/acs/acs1/groups/B23025.json
+2018,B23025_005E,unemployed,Estimate!!Total!!In labor force!!Civilian labor force!!Unemployed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2018/acs/acs1/groups/B23025.json
+2018,B25001_001E,housing_units,Estimate!!Total,HOUSING UNITS,https://api.census.gov/data/2018/acs/acs1/groups/B25001.json
+2018,B25002_001E,total_housing_units,Estimate!!Total,OCCUPANCY STATUS,https://api.census.gov/data/2018/acs/acs1/groups/B25002.json
+2018,B25002_002E,occupied_housing_units,Estimate!!Total!!Occupied,OCCUPANCY STATUS,https://api.census.gov/data/2018/acs/acs1/groups/B25002.json
+2018,B25002_003E,vacant_housing_units,Estimate!!Total!!Vacant,OCCUPANCY STATUS,https://api.census.gov/data/2018/acs/acs1/groups/B25002.json
+2018,B25064_001E,median_gross_rent_nominal,Estimate!!Median gross rent,MEDIAN GROSS RENT (DOLLARS),https://api.census.gov/data/2018/acs/acs1/groups/B25064.json
+2018,B25070_001E,renter_units_total,Estimate!!Total,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2018/acs/acs1/groups/B25070.json
+2018,B25070_007E,renter_units_30_34,Estimate!!Total!!30.0 to 34.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2018/acs/acs1/groups/B25070.json
+2018,B25070_008E,renter_units_35_39,Estimate!!Total!!35.0 to 39.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2018/acs/acs1/groups/B25070.json
+2018,B25070_009E,renter_units_40_49,Estimate!!Total!!40.0 to 49.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2018/acs/acs1/groups/B25070.json
+2018,B25070_010E,renter_units_50_plus,Estimate!!Total!!50.0 percent or more,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2018/acs/acs1/groups/B25070.json
+2018,B25070_011E,renter_units_not_computed,Estimate!!Total!!Not computed,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2018/acs/acs1/groups/B25070.json
+2018,B25077_001E,median_home_value_nominal,Estimate!!Median value (dollars),MEDIAN VALUE (DOLLARS),https://api.census.gov/data/2018/acs/acs1/groups/B25077.json
+2019,B01003_001E,population,Estimate!!Total,TOTAL POPULATION,https://api.census.gov/data/2019/acs/acs1/groups/B01003.json
+2019,B19013_001E,median_household_income_nominal,Estimate!!Median household income in the past 12 months (in 2019 inflation-adjusted dollars),MEDIAN HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2019 INFLATION-ADJUSTED DOLLARS),https://api.census.gov/data/2019/acs/acs1/groups/B19013.json
+2019,B23025_003E,civilian_labor_force,Estimate!!Total:!!In labor force:!!Civilian labor force:,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2019/acs/acs1/groups/B23025.json
+2019,B23025_004E,employed,Estimate!!Total:!!In labor force:!!Civilian labor force:!!Employed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2019/acs/acs1/groups/B23025.json
+2019,B23025_005E,unemployed,Estimate!!Total:!!In labor force:!!Civilian labor force:!!Unemployed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2019/acs/acs1/groups/B23025.json
+2019,B25001_001E,housing_units,Estimate!!Total,HOUSING UNITS,https://api.census.gov/data/2019/acs/acs1/groups/B25001.json
+2019,B25002_001E,total_housing_units,Estimate!!Total:,OCCUPANCY STATUS,https://api.census.gov/data/2019/acs/acs1/groups/B25002.json
+2019,B25002_002E,occupied_housing_units,Estimate!!Total:!!Occupied,OCCUPANCY STATUS,https://api.census.gov/data/2019/acs/acs1/groups/B25002.json
+2019,B25002_003E,vacant_housing_units,Estimate!!Total:!!Vacant,OCCUPANCY STATUS,https://api.census.gov/data/2019/acs/acs1/groups/B25002.json
+2019,B25064_001E,median_gross_rent_nominal,Estimate!!Median gross rent,MEDIAN GROSS RENT (DOLLARS),https://api.census.gov/data/2019/acs/acs1/groups/B25064.json
+2019,B25070_001E,renter_units_total,Estimate!!Total:,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2019/acs/acs1/groups/B25070.json
+2019,B25070_007E,renter_units_30_34,Estimate!!Total:!!30.0 to 34.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2019/acs/acs1/groups/B25070.json
+2019,B25070_008E,renter_units_35_39,Estimate!!Total:!!35.0 to 39.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2019/acs/acs1/groups/B25070.json
+2019,B25070_009E,renter_units_40_49,Estimate!!Total:!!40.0 to 49.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2019/acs/acs1/groups/B25070.json
+2019,B25070_010E,renter_units_50_plus,Estimate!!Total:!!50.0 percent or more,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2019/acs/acs1/groups/B25070.json
+2019,B25070_011E,renter_units_not_computed,Estimate!!Total:!!Not computed,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2019/acs/acs1/groups/B25070.json
+2019,B25077_001E,median_home_value_nominal,Estimate!!Median value (dollars),MEDIAN VALUE (DOLLARS),https://api.census.gov/data/2019/acs/acs1/groups/B25077.json
+2021,B01003_001E,population,Estimate!!Total,TOTAL POPULATION,https://api.census.gov/data/2021/acs/acs1/groups/B01003.json
+2021,B19013_001E,median_household_income_nominal,Estimate!!Median household income in the past 12 months (in 2021 inflation-adjusted dollars),MEDIAN HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2021 INFLATION-ADJUSTED DOLLARS),https://api.census.gov/data/2021/acs/acs1/groups/B19013.json
+2021,B23025_003E,civilian_labor_force,Estimate!!Total:!!In labor force:!!Civilian labor force:,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2021/acs/acs1/groups/B23025.json
+2021,B23025_004E,employed,Estimate!!Total:!!In labor force:!!Civilian labor force:!!Employed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2021/acs/acs1/groups/B23025.json
+2021,B23025_005E,unemployed,Estimate!!Total:!!In labor force:!!Civilian labor force:!!Unemployed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER,https://api.census.gov/data/2021/acs/acs1/groups/B23025.json
+2021,B25001_001E,housing_units,Estimate!!Total,HOUSING UNITS,https://api.census.gov/data/2021/acs/acs1/groups/B25001.json
+2021,B25002_001E,total_housing_units,Estimate!!Total:,OCCUPANCY STATUS,https://api.census.gov/data/2021/acs/acs1/groups/B25002.json
+2021,B25002_002E,occupied_housing_units,Estimate!!Total:!!Occupied,OCCUPANCY STATUS,https://api.census.gov/data/2021/acs/acs1/groups/B25002.json
+2021,B25002_003E,vacant_housing_units,Estimate!!Total:!!Vacant,OCCUPANCY STATUS,https://api.census.gov/data/2021/acs/acs1/groups/B25002.json
+2021,B25064_001E,median_gross_rent_nominal,Estimate!!Median gross rent,MEDIAN GROSS RENT (DOLLARS),https://api.census.gov/data/2021/acs/acs1/groups/B25064.json
+2021,B25070_001E,renter_units_total,Estimate!!Total:,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2021/acs/acs1/groups/B25070.json
+2021,B25070_007E,renter_units_30_34,Estimate!!Total:!!30.0 to 34.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2021/acs/acs1/groups/B25070.json
+2021,B25070_008E,renter_units_35_39,Estimate!!Total:!!35.0 to 39.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2021/acs/acs1/groups/B25070.json
+2021,B25070_009E,renter_units_40_49,Estimate!!Total:!!40.0 to 49.9 percent,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2021/acs/acs1/groups/B25070.json
+2021,B25070_010E,renter_units_50_plus,Estimate!!Total:!!50.0 percent or more,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2021/acs/acs1/groups/B25070.json
+2021,B25070_011E,renter_units_not_computed,Estimate!!Total:!!Not computed,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,https://api.census.gov/data/2021/acs/acs1/groups/B25070.json
+2021,B25077_001E,median_home_value_nominal,Estimate!!Median value (dollars),MEDIAN VALUE (DOLLARS),https://api.census.gov/data/2021/acs/acs1/groups/B25077.json
+2022,B01003_001E,population,Estimate!!Total,Total Population,https://api.census.gov/data/2022/acs/acs1/groups/B01003.json
+2022,B19013_001E,median_household_income_nominal,Estimate!!Median household income in the past 12 months (in 2022 inflation-adjusted dollars),Median Household Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars),https://api.census.gov/data/2022/acs/acs1/groups/B19013.json
+2022,B23025_003E,civilian_labor_force,Estimate!!Total:!!In labor force:!!Civilian labor force:,Employment Status for the Population 16 Years and Over,https://api.census.gov/data/2022/acs/acs1/groups/B23025.json
+2022,B23025_004E,employed,Estimate!!Total:!!In labor force:!!Civilian labor force:!!Employed,Employment Status for the Population 16 Years and Over,https://api.census.gov/data/2022/acs/acs1/groups/B23025.json
+2022,B23025_005E,unemployed,Estimate!!Total:!!In labor force:!!Civilian labor force:!!Unemployed,Employment Status for the Population 16 Years and Over,https://api.census.gov/data/2022/acs/acs1/groups/B23025.json
+2022,B25001_001E,housing_units,Estimate!!Total,Housing Units,https://api.census.gov/data/2022/acs/acs1/groups/B25001.json
+2022,B25002_001E,total_housing_units,Estimate!!Total:,Occupancy Status,https://api.census.gov/data/2022/acs/acs1/groups/B25002.json
+2022,B25002_002E,occupied_housing_units,Estimate!!Total:!!Occupied,Occupancy Status,https://api.census.gov/data/2022/acs/acs1/groups/B25002.json
+2022,B25002_003E,vacant_housing_units,Estimate!!Total:!!Vacant,Occupancy Status,https://api.census.gov/data/2022/acs/acs1/groups/B25002.json
+2022,B25064_001E,median_gross_rent_nominal,Estimate!!Median gross rent,Median Gross Rent (Dollars),https://api.census.gov/data/2022/acs/acs1/groups/B25064.json
+2022,B25070_001E,renter_units_total,Estimate!!Total:,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2022/acs/acs1/groups/B25070.json
+2022,B25070_007E,renter_units_30_34,Estimate!!Total:!!30.0 to 34.9 percent,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2022/acs/acs1/groups/B25070.json
+2022,B25070_008E,renter_units_35_39,Estimate!!Total:!!35.0 to 39.9 percent,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2022/acs/acs1/groups/B25070.json
+2022,B25070_009E,renter_units_40_49,Estimate!!Total:!!40.0 to 49.9 percent,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2022/acs/acs1/groups/B25070.json
+2022,B25070_010E,renter_units_50_plus,Estimate!!Total:!!50.0 percent or more,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2022/acs/acs1/groups/B25070.json
+2022,B25070_011E,renter_units_not_computed,Estimate!!Total:!!Not computed,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2022/acs/acs1/groups/B25070.json
+2022,B25077_001E,median_home_value_nominal,Estimate!!Median value (dollars),Median Value (Dollars),https://api.census.gov/data/2022/acs/acs1/groups/B25077.json
+2023,B01003_001E,population,Estimate!!Total,Total Population,https://api.census.gov/data/2023/acs/acs1/groups/B01003.json
+2023,B19013_001E,median_household_income_nominal,Estimate!!Median household income in the past 12 months (in 2023 inflation-adjusted dollars),Median Household Income in the Past 12 Months (in 2023 Inflation-Adjusted Dollars),https://api.census.gov/data/2023/acs/acs1/groups/B19013.json
+2023,B23025_003E,civilian_labor_force,Estimate!!Total:!!In labor force:!!Civilian labor force:,Employment Status for the Population 16 Years and Over,https://api.census.gov/data/2023/acs/acs1/groups/B23025.json
+2023,B23025_004E,employed,Estimate!!Total:!!In labor force:!!Civilian labor force:!!Employed,Employment Status for the Population 16 Years and Over,https://api.census.gov/data/2023/acs/acs1/groups/B23025.json
+2023,B23025_005E,unemployed,Estimate!!Total:!!In labor force:!!Civilian labor force:!!Unemployed,Employment Status for the Population 16 Years and Over,https://api.census.gov/data/2023/acs/acs1/groups/B23025.json
+2023,B25001_001E,housing_units,Estimate!!Total,Housing Units,https://api.census.gov/data/2023/acs/acs1/groups/B25001.json
+2023,B25002_001E,total_housing_units,Estimate!!Total:,Occupancy Status,https://api.census.gov/data/2023/acs/acs1/groups/B25002.json
+2023,B25002_002E,occupied_housing_units,Estimate!!Total:!!Occupied,Occupancy Status,https://api.census.gov/data/2023/acs/acs1/groups/B25002.json
+2023,B25002_003E,vacant_housing_units,Estimate!!Total:!!Vacant,Occupancy Status,https://api.census.gov/data/2023/acs/acs1/groups/B25002.json
+2023,B25064_001E,median_gross_rent_nominal,Estimate!!Median gross rent,Median Gross Rent (Dollars),https://api.census.gov/data/2023/acs/acs1/groups/B25064.json
+2023,B25070_001E,renter_units_total,Estimate!!Total:,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2023/acs/acs1/groups/B25070.json
+2023,B25070_007E,renter_units_30_34,Estimate!!Total:!!30.0 to 34.9 percent,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2023/acs/acs1/groups/B25070.json
+2023,B25070_008E,renter_units_35_39,Estimate!!Total:!!35.0 to 39.9 percent,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2023/acs/acs1/groups/B25070.json
+2023,B25070_009E,renter_units_40_49,Estimate!!Total:!!40.0 to 49.9 percent,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2023/acs/acs1/groups/B25070.json
+2023,B25070_010E,renter_units_50_plus,Estimate!!Total:!!50.0 percent or more,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2023/acs/acs1/groups/B25070.json
+2023,B25070_011E,renter_units_not_computed,Estimate!!Total:!!Not computed,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2023/acs/acs1/groups/B25070.json
+2023,B25077_001E,median_home_value_nominal,Estimate!!Median value (dollars),Median Value (Dollars),https://api.census.gov/data/2023/acs/acs1/groups/B25077.json
+2024,B01003_001E,population,Estimate!!Total,Total Population,https://api.census.gov/data/2024/acs/acs1/groups/B01003.json
+2024,B19013_001E,median_household_income_nominal,Estimate!!Median household income in the past 12 months (in 2024 inflation-adjusted dollars),Median Household Income in the Past 12 Months (in 2024 Inflation-Adjusted Dollars),https://api.census.gov/data/2024/acs/acs1/groups/B19013.json
+2024,B23025_003E,civilian_labor_force,Estimate!!Total:!!In labor force:!!Civilian labor force:,Employment Status for the Population 16 Years and Over,https://api.census.gov/data/2024/acs/acs1/groups/B23025.json
+2024,B23025_004E,employed,Estimate!!Total:!!In labor force:!!Civilian labor force:!!Employed,Employment Status for the Population 16 Years and Over,https://api.census.gov/data/2024/acs/acs1/groups/B23025.json
+2024,B23025_005E,unemployed,Estimate!!Total:!!In labor force:!!Civilian labor force:!!Unemployed,Employment Status for the Population 16 Years and Over,https://api.census.gov/data/2024/acs/acs1/groups/B23025.json
+2024,B25001_001E,housing_units,Estimate!!Total,Housing Units,https://api.census.gov/data/2024/acs/acs1/groups/B25001.json
+2024,B25002_001E,total_housing_units,Estimate!!Total:,Occupancy Status,https://api.census.gov/data/2024/acs/acs1/groups/B25002.json
+2024,B25002_002E,occupied_housing_units,Estimate!!Total:!!Occupied,Occupancy Status,https://api.census.gov/data/2024/acs/acs1/groups/B25002.json
+2024,B25002_003E,vacant_housing_units,Estimate!!Total:!!Vacant,Occupancy Status,https://api.census.gov/data/2024/acs/acs1/groups/B25002.json
+2024,B25064_001E,median_gross_rent_nominal,Estimate!!Median gross rent,Median Gross Rent (Dollars),https://api.census.gov/data/2024/acs/acs1/groups/B25064.json
+2024,B25070_001E,renter_units_total,Estimate!!Total:,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2024/acs/acs1/groups/B25070.json
+2024,B25070_007E,renter_units_30_34,Estimate!!Total:!!30.0 to 34.9 percent,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2024/acs/acs1/groups/B25070.json
+2024,B25070_008E,renter_units_35_39,Estimate!!Total:!!35.0 to 39.9 percent,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2024/acs/acs1/groups/B25070.json
+2024,B25070_009E,renter_units_40_49,Estimate!!Total:!!40.0 to 49.9 percent,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2024/acs/acs1/groups/B25070.json
+2024,B25070_010E,renter_units_50_plus,Estimate!!Total:!!50.0 percent or more,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2024/acs/acs1/groups/B25070.json
+2024,B25070_011E,renter_units_not_computed,Estimate!!Total:!!Not computed,Gross Rent as a Percentage of Household Income in the Past 12 Months,https://api.census.gov/data/2024/acs/acs1/groups/B25070.json
+2024,B25077_001E,median_home_value_nominal,Estimate!!Median value (dollars),Median Value (Dollars),https://api.census.gov/data/2024/acs/acs1/groups/B25077.json

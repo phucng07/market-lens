@@ -1,0 +1,7 @@
+{
+  "url": "https://api.census.gov/data/2022/acs/acs1/groups/B01003.json",
+  "resolved_url": "https://api.census.gov/data/2022/acs/acs1/groups/B01003.json",
+  "retrieved_utc": "2026-09-26T22:22:46.139331+00:00",
+  "sha256": "60822115ef6cc5099f79647b008573186f47a9ec0d3c7703871daa96d301acb2",
+  "bytes": 233380
+}
